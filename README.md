@@ -1,2 +1,3 @@
-# rigor-ai-studio
-RigorCameraPro - Released via Rigor AI Studio
+# RigorCameraPro
+
+Created and published via Rigor AI Studio.
